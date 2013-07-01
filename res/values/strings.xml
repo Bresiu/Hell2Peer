@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Hasło</string>
+    <string name="prompt_passwordA">Powtórz Hasło</string>
+    <string name="action_sign_in_register">
+        <b>Zaloguj się</b>
+        lub zarejestruj
+    </string>
+    <string name="action_register">
+        <b>Zarejestruj</b>
+    </string>
+    <string name="action_sign_in_short">Zaloguj</string>
+    <string name="action_register_short">Zarejestruj</string>
+    <string name="menu_forgot_password">Odzyskaj hasło</string>
+    <string name="login_progress_signing_in">Logowanie&#8230;</string>
+    <string name="error_invalid_email">Adres Email jest niepoprawny</string>
+    <string name="error_invalid_password">Hasło jest za krótkie</string>
+    <string name="error_incorrect_password">Hasło jest niepoprawne</string>
+    <string name="error_field_required">To pole jest wymagane</string>
+    <!-- Strings related to voting -->
+    <string name="app_name">Hell<b>2</b>Peer
+    </string>
+    <string name="start_service">
+        <b>Kliknij tutaj, aby przejść w tryb pracy w tle i rozosłać swój zakodowany głos</b>
+    </string>
+    <string name="accept">Tak</string>
+    <string name="cancel">Nie</string>
+    <string name="register">Rejestracja</string>
+    <string name="voting">Głosowanie</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_voting">VotingActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="vote">
+        <b>Głosuj</b>
+    </string>
+    <string name="voteTitle">Wybierz kandydata</string>
+    <string name="sendingVote">Wysyłam głos na serwer</string>
+    <!-- Strings related to crouton -->
+    <string name="crouton">Ikona plikacji</string>
+    <string name="custom_title">Custom Crouton</string>
+    <string name="custom_message">Even with message!</string>
+
+    <!-- Colors -->
+    <color name="background">#333333</color>
+    <color name="transBackground">#50000000</color>
+    <color name="white">#ffffff</color>
+    <color name="highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <!-- A light Holo shade of green -->
+    <color name="holo_green_light">#ff99cc00</color>
+    <!-- A light Holo shade of red -->
+    <color name="holo_red_light">#ffff4444</color>
+    <!-- A dark Holo shade of blue -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <!-- A dark Holo shade of green -->
+    <color name="holo_green_dark">#ff669900</color>
+    <!-- A dark Holo shade of red -->
+    <color name="holo_red_dark">#ffcc0000</color>
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#ffaa66cc</color>
+    <!-- A light Holo shade of orange -->
+    <color name="holo_orange_light">#ffffbb33</color>
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+    <!-- A really bright Holo shade of blue -->
+    <color name="holo_blue_bright">#ff00ddff</color>
+
+</resources>

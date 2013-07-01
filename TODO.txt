@@ -1,0 +1,5 @@
+notification
+Check network
+Register activity
+
+UML
